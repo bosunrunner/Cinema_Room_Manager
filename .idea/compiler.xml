@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Bus_tour.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-The_integer_barrier.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-The_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Print_the_age.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-What's_wrong.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Primitive_and_reference_types-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Digits_from_0_to_9_backwards.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String-Check_burgs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Collatz_conjecture.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_sequence.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_smallest_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-The_sum_of_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_while_and_do-while_loops-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
